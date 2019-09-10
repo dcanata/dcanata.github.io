@@ -1,12 +1,23 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: İngilizce
+  description: İyi derecede konuşma ve yazma.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: İspanyolca
+  description: Başlangıç seviyesi.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Editörlük
+  description: Profesyonel metin yazarlığı ve editörlük tecrübesi edindim.
+
+# Sosyal medya
+- skill: Sosyal medya yönetimi
+
+# HTML - Web
+- skill: HTML - Web Tasarım
+  description: HTML ve Web tasarım dersleri almaktayım.
+
+# Grafik Tasarım
+- skill: Grafik Tasarım
+  description: Photoshop ve grafik tasarım dersleri almaktayım.
