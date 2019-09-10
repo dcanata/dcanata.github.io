@@ -1,15 +1,19 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: İdebiyat Dergisi
+  role: Editör
+  year: 2007 &mdash; 2010
+  summary: Derginin içeriğinin geliştirilmesine katkıda bulundu ve düzeltme işlemlerini yaptı. Gerektiğinde uzaktan editörlük desteği sağladı. 
 
+- organization: Türkiye’den Gitmek: İtalya’ya Uzanan bir Göç Hikayesi, Kitap
+  role: Editör
+  year: 2019
+  url: https://yitikulkeyayinlari.com/urun/turkiyeden-gitmek/
+  summary: Kitabın editörlüğünü üstlendi, gerekli düzenlemelerde bulundu.
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: Büyükçekmece Bisiklet Kulübü
+  role: Editör
+  year: 2019 &mdash; Halen
+  url: https://bbk.org.tr
+  summary: Derneğe ait etkinliklerin yazılı materyalinin düzenlemelerini üstlendi, konuşmacı görevini yerine getirdi.
