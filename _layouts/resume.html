@@ -40,7 +40,9 @@
         </div>
 
         {% if site.resume_looking_for_work == 'yes' %}
-        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Benimle iletişime geçin</a>
+        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">İletişim</a>
+        <a href="ozgecmis.docx" class="contact-button no-print" itemprop="ozgecmis">Özgeçmiş</a>
+        <a href="resume.docx" class="contact-button no-print" itemprop="resume">Resumé</a>
         {% elsif site.resume_looking_for_work == 'no' %}
         <a class="contact-button not-looking no-print">Şu an iş arayışı içerisinde değilim.</a>
         {% else %}
